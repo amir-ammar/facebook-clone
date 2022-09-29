@@ -1,11 +1,8 @@
 ## facebook-clone
 
-Building facebook application clone using **`React`** and **`express`**. This build covers the core functionality (`uploading normal text, images & videos`....etc) of original facebook application. It is fully responsive and looks better in most of the devices. It includes dark/light theme toggle feature as well
-
 ![](https://img.shields.io/github/languages/code-size/phanison898/facebook-clone?style=flat-square)
 ![](https://img.shields.io/github/languages/top/phanison898/facebook-clone?style=flat-square)
 ![](https://img.shields.io/github/license/phanison898/facebook-clone?style=flat-square)
-
 
 
 ---
