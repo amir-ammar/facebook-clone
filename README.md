@@ -31,7 +31,7 @@ Building facebook application clone using **`React`** and **`express`**. This bu
       <a href="#build-with">Build With</a>
     </li>
     <li>
-      <a href="#to-do">To Do</a>
+      <a href="#run-app">Run app</a>
     </li>
   </ol>
 </details>
@@ -105,6 +105,7 @@ Building facebook application clone using **`React`** and **`express`**. This bu
   * View friends posts in the home page 
   * Change from light mode to the dark one
 
+---
 
 ## API Usage
 
@@ -165,8 +166,9 @@ Building facebook application clone using **`React`** and **`express`**. This bu
 | POST     | /listImages            |
 
 
+---
 
-### 🛠 Tech used
+### Build With
 
 - React
 - React hooks
@@ -177,7 +179,7 @@ Building facebook application clone using **`React`** and **`express`**. This bu
 - Nodejs
 - JWT
 
-
+## Run app
 ### ✅ How to make use of this build?
 
 1. Clone the repository
@@ -216,8 +218,3 @@ Building facebook application clone using **`React`** and **`express`**. This bu
    ```
 7. Happy learning 😊
 8. Please consider to star ( ⭐ ) this repo. It'll boost my confidence
-
-
-
-
-
