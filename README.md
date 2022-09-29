@@ -145,16 +145,16 @@ Building facebook application clone using **`React`** and **`express`**. This bu
 | ------- | ---------------------- |
 | POST    | /createPost            |
 | GET     | /getAllPosts           |
-| GET     | /comment               |
-| GET     | /savePost/:id          |
-| GET     | /deletePost/:id        |
+| PUT     | /comment               |
+| PUT     | /savePost/:id          |
+| DELETE     | /deletePost/:id        |
 
 
 ### Reacts Endpoints
 
 | Methods |        Endpoints       |
 | ------- | ---------------------- |
-| POST    | /reactPost             |
+| PUT    | /reactPost             |
 | GET     | /getReacts/:id         |
 
 ### Upload Endpoints
@@ -162,7 +162,7 @@ Building facebook application clone using **`React`** and **`express`**. This bu
 | Methods |        Endpoints       |
 | ------- | ---------------------- |
 | POST    | /uploadImages          |
-| GET     | /listImages            |
+| POST     | /listImages            |
 
 
 
