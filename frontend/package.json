@@ -4,8 +4,8 @@
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
-    "@testing-library/react": "^12.1.2",
-    "@testing-library/user-event": "^13.5.0",
+    "@testing-library/react": "^16.0.0",
+    "@testing-library/user-event": "^14.0.0",
     "axios": "^0.26.0",
     "emoji-picker-react": "^3.5.1",
     "file-saver": "^2.0.5",
@@ -17,15 +17,15 @@
     "react-easy-crop": "^4.1.4",
     "react-loading-skeleton": "^3.0.3",
     "react-moment": "^1.1.1",
-    "react-redux": "^7.2.6",
+    "react-redux": "^9.0.0",
     "react-responsive": "^9.0.0-beta.6",
-    "react-router-dom": "^6.2.1",
+    "react-router-dom": "^6.4.0",
     "react-scripts": "5.0.0",
-    "react-spinners": "^0.11.0",
-    "redux": "^4.1.2",
+    "react-spinners": "^0.13.0",
+    "redux": "^5.0.0",
     "redux-devtools-extension": "^2.13.9",
     "web-vitals": "^2.1.4",
-    "yup": "^0.32.11"
+    "yup": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
